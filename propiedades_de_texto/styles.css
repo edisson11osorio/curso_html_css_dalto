@@ -1,0 +1,16 @@
+p {
+    color: red; /* cambia el color del texto */
+    font-family: sans-serif; /* cambia la tipografia del texto */
+    font-size: 18px; /* cambia el tamaño de la letra */
+    font-weight: bold; /* sirve para dar negritas para resltar el texto */
+    font-style: italic; 
+    text-align: center;
+    text-decoration: line-through;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+    text-shadow: 15px red;
+}
+h1{
+    text-align: center;
+}
