@@ -1,0 +1,13 @@
+
+/* selector por elemento */
+h1{
+    color: blue;
+}
+/* Selector por clase  */
+.faltante{
+    color: red;
+}
+/* selector por id */
+#ingrediente-secreto{
+    color: green;
+}
