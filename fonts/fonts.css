@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "edisson";
+    src: url("../Comic_Relief/ComicRelief-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "edisson";
+    src: url("../Comic_Relief/ComicRelief-Bold.ttf") format("truetype");
+}
+
+h1{
+    font-family: edisson;
+}
+p{
+    font-family: edisson;
+    font-weight: 400;
+}
