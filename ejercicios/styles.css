@@ -1,0 +1,28 @@
+body{
+
+    background-color: black;
+}
+.card{
+    background-color: grey;
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
+h1{
+    padding: 10px;
+}
+h2{
+    font-size: 14px;
+    font-weight: 100px;
+    letter-spacing: 2px;
+}
+p{
+    font-size: 12px;
+    font-weight: 100px;
+    letter-spacing: 1px;
+    padding: 20px;
+    background-color: white;
+    text-align: justify;
+}
