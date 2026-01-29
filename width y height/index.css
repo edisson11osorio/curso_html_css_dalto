@@ -3,3 +3,8 @@ div {
     width: 200px;
     height: 200px;
 }
+p {
+    background-color: blue;
+    padding: 50px;
+    color: white;
+}
