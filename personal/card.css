@@ -1,9 +1,26 @@
+body{
+    margin: 0;
+    background-color: #66ffaa ;
+}
 div{
-    background-color:#8988ff;
-    width: 70%;
-    height: 25%;
-    border-radius: 15px;
+    background: transparent;
+    width: 80%;
+    height: 85%;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    margin: 50px;
+    box-sizing: border-box;
+ }  
+img{
+    width: 200px;
+    margin: 1px 100px;
 }
 h1{
     text-align: center;
+}
+p{
+    text-align: justify;
+}
+img:hover{
+    width: 250px;
 }
